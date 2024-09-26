@@ -14,6 +14,15 @@ Feature: Invoice Adding
     And set "12.09.2024" for day
     Then wait for manuel enter
 
+    #Change blue text to organize your helper:
+
+    # set 16 task
+    # set 1 "Ray Sigorta" customer
+    # set 3 "FigoPara" customer
+    # set 12 "Setur" customer
+
+    # !!!!!! 16 = 1 + 3 + 12 !!!!!!!
+
     #QA
     #Setur
     #FigoPara
